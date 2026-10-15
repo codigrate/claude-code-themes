@@ -9,7 +9,7 @@ Codigrate Themes for Claude Code
 </h1>
 
 A carefully crafted collection of Claude Code themes inspired by nature and iconic cities around the world.
-Each theme colours Claude Code's own interface, its accent, prompt, borders, status and diff colours, in the palette
+Each theme colors Claude Code's own interface, its accent, prompt, borders, status and diff colors, in the palette
 of the matching Codigrate IDE theme, so your terminal sessions with Claude feel like the editor you already know.
 
 ## Getting Started
@@ -17,11 +17,11 @@ of the matching Codigrate IDE theme, so your terminal sessions with Claude feel 
 1. Install **Claude Code** on your system.
 2. Copy the theme file you want to use (for example `codigrate-london.json`) into your Claude Code themes folder, `~/.claude/themes/`, keeping its name as is. If the folder is not there yet, create it in a terminal: `mkdir -p ~/.claude/themes`.
 3. In Claude Code, type `/theme` and pick the theme from the list, for example **Codigrate London**. It applies at once, and Claude Code reloads the file if you change it.
-4. For the best result, install the same theme for your terminal too: [Ghostty](https://github.com/codigrate/ghostty-terminal-themes), [iTerm2](https://github.com/codigrate/iterm2-themes) or [macOS Terminal](https://github.com/codigrate/macos-terminal-themes). Claude Code colours code with your terminal's colours, so with the matching terminal theme the code reads like the theme in your IDE.
+4. For the best result, install the same theme for your terminal too: [Ghostty](https://github.com/codigrate/ghostty-terminal-themes), [iTerm2](https://github.com/codigrate/iterm2-themes) or [macOS Terminal](https://github.com/codigrate/macos-terminal-themes). Claude Code colors code with your terminal's colors, so with the matching terminal theme the code reads like the theme in your IDE.
 
 ## Complete the Look in Your Terminal
 
-Claude Code draws on top of your terminal: the background and the code colours come from the terminal's theme. Install
+Claude Code draws on top of your terminal: the background and the code colors come from the terminal's theme. Install
 the same Codigrate theme for your terminal and Claude Code reads exactly like the theme in your IDE:
 
 - [Codigrate Themes for Ghostty](https://github.com/codigrate/ghostty-terminal-themes)
@@ -33,7 +33,7 @@ Every theme, on every platform, is also on [codigrate.com/themes](https://codigr
 ## Notes
 
 - These themes are designed for **Claude Code**, the command line tool.
-- The background and the code colours come from your terminal; the theme sets everything Claude Code draws itself.
+- The background and the code colors come from your terminal; the theme sets everything Claude Code draws itself.
 - Theme appearance may vary slightly depending on your terminal, font rendering and transparency preferences.
 
 ## Nature
